@@ -1,0 +1,24 @@
+#container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10rem;
+    display: block;
+    text-align: center;
+
+}
+.btnSection{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: white;
+    background-color: hsl(286, 50%, 58%);
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: rgb(197, 166, 13)
+    
+}
